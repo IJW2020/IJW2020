@@ -3,6 +3,10 @@
 ### 📚  Currenty Learning
 ![](https://img.shields.io/badge/Code-x86%20Assembly-informational?style=flat&logoColor=white&color=5BA745)
 ![](https://img.shields.io/badge/Platform-Tensor%20Flow-informational?style=flat&logo=TensorFlow&logoColor=white&color=5BA745)
+### 📚  Interests 
+![](https://img.shields.io/badge/Science-Data%20Science-informational?style=flat&logoColor=white&color=5BA745)
+![](https://img.shields.io/badge/Technology-Big%20Data-informational?style=flat&logoColor=white&color=5BA745)
+![](https://img.shields.io/badge/Technology-Reverse%20Engineering-informational?style=flat&logoColor=white&color=5BA745)
 ### 🔧  Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)

@@ -1,5 +1,4 @@
 ### Hi there 👋
-<img align="right" width="375" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 ### 📚  Currenty Learning
 ![](https://img.shields.io/badge/Code-x86%20Assembly-informational?style=flat&logoColor=white&color=5BA745)

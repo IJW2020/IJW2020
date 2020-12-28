@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### 📚  Currenty Learning
+![](https://img.shields.io/badge/Code-x86%20Assembly-informational?style=flat&logoColor=white&color=5BA745)
 ![](https://img.shields.io/badge/Platform-Tensor%20Flow-informational?style=flat&logo=TensorFlow&logoColor=white&color=5BA745)
 ### 🔧  Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)

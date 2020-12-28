@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 📚  Currenty Learning
-![](https://img.shields.io/badge/Code-x86%20Assembly-informational?style=flat&logoColor=white&color=5BA745)
+![](https://img.shields.io/badge/Platform-Tensor%20Flow-informational?style=flat&logo=TensorFlow&logoColor=white&color=5BA745)
 ### 🔧  Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
@@ -11,6 +11,7 @@
 ![](https://img.shields.io/badge/Code-C%20Sharp-informational?style=flat&logo=C%20Sharp&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Ada95-informational?style=flat&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Database-MSSQL-informational?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Database-Oracle-informational?style=flat&logo=Oracle&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Database-MariaDB-informational?style=flat&logo=MariaDB&logoColor=white&color=6aa6f8)

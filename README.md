@@ -5,6 +5,7 @@
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=5BA745)
 ![](https://img.shields.io/badge/Platform-Tensor%20Flow-informational?style=flat&logo=TensorFlow&logoColor=white&color=5BA745)
 ![](https://img.shields.io/badge/Platform-Apache%20Spark-informational?style=flat&logo=Apache%20Spark&logoColor=white&color=5BA745)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=5BA745)
 ### 📚  Interests 
 ![](https://img.shields.io/badge/Science-Data%20Science-informational?style=flat&logoColor=white&color=5BA745)
 ![](https://img.shields.io/badge/Technology-Big%20Data-informational?style=flat&logoColor=white&color=5BA745)

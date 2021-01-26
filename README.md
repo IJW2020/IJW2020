@@ -30,6 +30,7 @@
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tool-Sonarqube-informational?style=flat&logo=Sonarqube&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tool-Sentry-informational?style=flat&logo=Sentry&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tool-Redis-informational?style=flat&logo=Redis&logoColor=white&color=6aa6f8)
 <!--
 **IJW2020/IJW2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)

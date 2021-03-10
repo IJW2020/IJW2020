@@ -25,6 +25,7 @@
 ![](https://img.shields.io/badge/Database-Oracle-informational?style=flat&logo=Oracle&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Database-MariaDB-informational?style=flat&logo=MariaDB&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Database-MYSQL-informational?style=flat&logo=MYSQL&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Database-PostGreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=Gnu%20Bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=Zsh&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=6aa6f8)
